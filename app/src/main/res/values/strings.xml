@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="description">Description</string>
+    <string name="intervals_in_hours">Intervals in Hours</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="profile">Profile</string>
+</resources>
